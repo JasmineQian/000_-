@@ -1,0 +1,202 @@
+Date: Fri, 12 Oct 2018 09:12:38 +0800 (CST)
+From: 942812509@qq.com
+To: jasqia@acxiom.com
+Message-ID: <728890494.1.1539306758712.JavaMail.jasqia@jasqia-7050>
+Subject: =?UTF-8?TestBaseDay5.Test?5rWL6K+V5Y+R6YCB6YKu5Lu2?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_0_648129364.1539306758679"
+
+------=_Part_0_648129364.1539306758679
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+6L+Z5Liq5piv6YKu5Lu255qE5q2j5paH6YOo5YiG
+------=_Part_0_648129364.1539306758679
+Content-Type: text/html; charset=UTF-8; name=".\\report.html"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment; filename=".\\report.html"
+
+
+<?xml version=3D"1.0" encoding=3D"utf-8" ?>
+
+<head>
+    <title>Test Report</title>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3Dutf-8"=
+ />
+    <meta name=3D"description" content=3D"TestNG unit test results." />
+
+</head>
+<body>
+
+<h1>IKEA Web Automatic Test</h1>
+<table border=3D"1">
+    <tr>
+        <th>OverView........</th>
+        <th colspan=3D"11" class=3D"header suite">
+            <div >
+                <a href=3D"http://www.baidu.com">Detail Information for tes=
+t cases</a>
+            </div>
+        </th>
+    </tr>
+    <tr class=3D"columnHeadings">
+        <td> </td>
+        <th>all</th>
+        <th>excluded</th>
+        <th>passed</th>
+        <th>faild</th>
+        <th>skipped</th>
+        <th>StartTime(S)</th>
+        <th>EndTime(S)</th>
+        <th>duration(S)</th>
+        <th>passration</th>
+        <th>alltestMethod</th>
+        <th>excluedMethod</th>
+    </tr>
+
+    <tr>
+        <td>TestResult</td>
+        <td>3</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2018=E5=B9=B410=E6=9C=8811=E6=97=A5 14:15:38@773</td>
+        <td>2018=E5=B9=B410=E6=9C=8811=E6=97=A5 14:15:53@852</td>
+        <td>15.079</td>
+        <td>100.00%</td>
+        <td>
+                            TestPrint.Test01()[pri:0, instance:TestCases.Te=
+stPrint@2752f6e2]<br/>
+                            TestPrint.Test02()[pri:0, instance:TestCases.Te=
+stPrint@2752f6e2]<br/>
+                            TestPrint.Test03()[pri:0, instance:TestCases.Te=
+stPrint@2752f6e2]<br/>
+                    </td>
+        <td>
+                    </td>
+    </tr>
+</table>
+<br/><br/>
+<table border=3D"1">
+    <tr>
+        <th>PassTests.............</th>
+        <th colspan=3D"11" class=3D"header suite">
+            <div >
+                <a href=3D"http://www.baidu.com">Detail Information for tes=
+t cases</a>
+            </div>
+        </th>
+    </tr>
+    <tr class=3D"columnHeadings">
+        <td> </td>
+        <th>testName</th>
+        <th>className</th>
+        <th>starttime</th>
+        <th>endtime</th>
+        <th>duration</th>
+        <th>params</th>
+        <th>description</th>
+        <th>output</th>
+        <th>dependMethod</th>
+        <th>throwable</th>
+        <th>stackTrace</th>
+    </tr>
+
+        <tr>
+        <td>1</td>
+        <td>Test01
+            </td>
+        <td>TestCases.TestPrint</td>
+        <td>02:15:38@794</td>
+        <td>02:15:38@806</td>
+        <td>0.012</td>
+        <td></td>
+        <td></td>
+        <td>
+                            <a href=3D'http://www.baidu.com' target=3D'blan=
+k'>baidu.com</a><br/>
+                    </td>
+        <td></td>
+        <td></td>
+        <td>
+                    </td>
+        <tr>
+        <td>2</td>
+        <td>Test02
+            </td>
+        <td>TestCases.TestPrint</td>
+        <td>02:15:38@807</td>
+        <td>02:15:38@807</td>
+        <td>0.000</td>
+        <td></td>
+        <td></td>
+        <td>
+                            DDDDDDDDDD<br/>
+                            AAAAAAAAAAAA<br/>
+                    </td>
+        <td></td>
+        <td></td>
+        <td>
+                    </td>
+        <tr>
+        <td>3</td>
+        <td>Test03
+            </td>
+        <td>TestCases.TestPrint</td>
+        <td>02:15:38@807</td>
+        <td>02:15:53@851</td>
+        <td>15.044</td>
+        <td></td>
+        <td></td>
+        <td>
+                            3333<br/>
+                            =3D=3D<br/>
+                    </td>
+        <td></td>
+        <td></td>
+        <td>
+                    </td>
+    </tr>
+
+</table>
+<br/>
+
+
+<br/><br/>
+
+<table border=3D"1">
+    <tr>
+        <th>FailedTests...............</th>
+        <th colspan=3D"11" class=3D"header suite">
+            <div >
+                <a href=3D"http://www.baidu.com">Detail Information for tes=
+t cases</a>
+            </div>
+        </th>
+    </tr>
+    <tr class=3D"columnHeadings">
+        <td> </td>
+        <th>testName</th>
+        <th>className</th>
+        <th>StartTime</th>
+        <th>EndTime</th>
+        <th>duration</th>
+        <th>params</th>
+        <th>description</th>
+        <th>output</th>
+        <th>dependMethod</th>
+        <th>throwable</th>
+        <th>stackTrace</th>
+    </tr>
+
+    </tr>
+
+
+</table>
+
+<br/><br/>
+</body>
+
+------=_Part_0_648129364.1539306758679--
